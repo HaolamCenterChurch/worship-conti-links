@@ -25,7 +25,7 @@ printf '1. 내 삶은 주의 것\n2. Firm foundation\n' | python3 conti_links.py
 
 ```
 1. 내 삶은 주의 것
-https://www.youtube.com/watch?v=...
-2. Firm foundation
+  [혹시 이 곡?] 전쟁은 주의 것 (Battle Belongs)(한명진) https://www.youtube.com/watch?v=j4_VrMe7pxs
+2. Firm Foundation
 https://www.youtube.com/watch?v=yfzyWcB_O1g
 ```
